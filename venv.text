@@ -1,0 +1,15 @@
+このチュートリアルのために、ホームディレクトリに新しいディレクトリdjangogirlsを作成します。
+
+command-line
+$ mkdir djangogirls
+$ cd djangogirls
+myvenvという仮想環境（virtual environment）を作成します。一般的なコマンドは以下のようになります：
+
+command-line
+$ python3 -m venv myvenv
+
+Working with virtualenv: Windows
+実行して、仮想環境を起動します。
+
+command-line
+C:\Users\Name\djangogirls > myvenv\Scripts\activate
